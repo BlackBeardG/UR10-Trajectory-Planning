@@ -38,6 +38,6 @@ The final end-effector position and orientation errors are also computed to eval
 
 ## Files
 
-* `part_a_door_handle_trajectory.m`: generates the door, handle and end-effector trajectories
-* `part_b_ur10_inverse_kinematics.m`: performs UR10 inverse kinematics and robot motion simulation
+* `code/part_a_door_handle_trajectory.m`: generates the door, handle and end-effector trajectories
+* `code/part_b_ur10_inverse_kinematics.m`: performs UR10 inverse kinematics and robot motion simulation
 * `Project_Report.pdf`: project report
